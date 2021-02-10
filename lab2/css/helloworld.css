@@ -1,0 +1,17 @@
+h1 {
+  color: white;
+  font-size: 100px;
+}
+
+p {
+  text-indent: 30px;
+  font-size: 20px;
+}
+
+#content {
+  background-color: #ffb6c1;
+  border: 5px;
+  border-style: dashed;
+  margin: 20px;
+  padding: 20px;
+}
